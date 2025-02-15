@@ -1,8 +1,4 @@
 Printing a pattern.
-"
-
-
-
 
  #            #
   ##        ##
