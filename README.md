@@ -1,12 +1,1 @@
-Printing a pattern.
-
- #            #
-  ##        ##
-   ###    ###
-   #########
-   #########
-   ###   ###
-  ##        ##
- #            #
- 
-
+Printing a pattern in java.
